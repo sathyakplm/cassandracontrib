@@ -10,3 +10,6 @@
 
 ## Get Started With Apache Cassandra" - Steps are not clear
 - Created an "Improvement task" in [JIRA](https://issues.apache.org/jira/browse/CASSANDRA-17485)
+
+## CQLSH broken as per the quick start documentation
+- Created [JIRA Issue](https://issues.apache.org/jira/projects/CASSANDRA/issues/CASSANDRA-17486?filter=reportedbyme)
