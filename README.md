@@ -1,2 +1,1 @@
-# cassandracontrib
-Contributions made to Cassandra
+# Cassandra Contribution
