@@ -19,3 +19,7 @@
 ## LocalReadSizeWarningTest#failThresholdSinglePartition is flaky
 - https://issues.apache.org/jira/browse/CASSANDRA-17217
 - Trying to reproduce with debug statements
+
+## Cassandra Authorization
+- https://issues.apache.org/jira/browse/CASSANDRA-17501
+- Follow this
