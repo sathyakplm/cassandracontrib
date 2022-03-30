@@ -15,3 +15,7 @@
 
 ## CQLSH broken as per the quick start documentation
 - Created [JIRA Issue](https://issues.apache.org/jira/projects/CASSANDRA/issues/CASSANDRA-17486?filter=reportedbyme)
+
+## LocalReadSizeWarningTest#failThresholdSinglePartition is flaky
+- https://issues.apache.org/jira/browse/CASSANDRA-17217
+- Trying to reproduce with debug statements
