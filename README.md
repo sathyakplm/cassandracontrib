@@ -23,3 +23,6 @@
 ## Cassandra Authorization
 - https://issues.apache.org/jira/browse/CASSANDRA-17501
 - Follow this
+
+## Group by Metrics
+- https://issues.apache.org/jira/browse/CASSANDRA-17222
